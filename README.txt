@@ -1,4 +1,3 @@
-# Author: Adam Hawks
 # code for Cosmos 2024 cluster 7 (R4US)
 # Materials used: adafruit metro microcontroller, DS18x20 temperature sensor, ph sensor (4502c) dissolved oxygen sensor (model pending), Dissolved Solids sensor (KS0429 keyestudio TDS Meter V1.0), GPS (model pending), Holybro Telemetry 
 # radio, wiring materials not included
