@@ -10,3 +10,4 @@
 # Database code is now included (hype)
 # Note that tables and rows may need to be changed in the base_station.py file to get it written in your database. Other changes might need to be made like the com port as well as the data
 # base name in order to ensure the code actually works.
+# WILL ADD DATABASE ONCE VALID DATA IS GATHERED
